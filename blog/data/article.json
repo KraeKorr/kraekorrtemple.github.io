@@ -1,1 +1,8 @@
-
+[
+    {
+        "titre": "test nouveau code blog",
+        "date": "26/08/2026",
+        "resume": "je teste un truc",
+        "lien": "articles/bienvenue.html"
+    }
+]
